@@ -384,8 +384,8 @@ button:hover{
 
 @media (max-width: 1120px){
     #aboutme-pic img{
-        width: 375px;
-        height: 497px;
+        width: 330px;
+        height: 500px;
     }
     #about-text h1 {
         font-size: 65px;
@@ -405,7 +405,7 @@ button:hover{
 
 @media (max-width: 1440px){
     #aboutme-pic img{
-        width: 375px;
+        width: 340px;
         height: 497px;
     }
     #about-text h1 {
